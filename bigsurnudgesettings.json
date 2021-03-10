@@ -3,9 +3,19 @@
       "simpleMode": false,
       "iconLightPath" : "/Library/Application Support/JAMF/Resources/bigsurIcon.png",
       "iconDarkPath" : "/Library/Application Support/JAMF/Resources/bigsurIcon.png",
-      "updateElements": [ 
+      "updateElements": [
         {
-        "mainContentText" : "Your F&M-issued computer does not have the latest version of your current operating system.\n\nAs soon as you are able, please save your work and install updates. This keeps your machine running smoothly and securely. This update will require your machine to restart.\n\nIf you have any questions, please contact the ITS Help Desk at 717-358-6789, or submit a ticket at helpdesk.fandm.edu."
+          "_language": "en",
+          "actionButtonText": "Actualizar dispositivo",
+          "informationButtonText": "Más información",
+          "mainContentHeader": "Su dispositivo se reiniciará durante esta actualización",
+          "mainContentNote": "Notas importantes",
+          "mainContentSubHeader": "Las actualizaciones pueden tardar unos 30 minutos en completarse",
+          "mainContentText": "Se requiere un dispositivo completamente actualizado para garantizar que IT pueda proteger su dispositivo con precisión.\n\nSi no actualiza su dispositivo, es posible que pierda el acceso a algunos elementos necesarios para sus tareas diarias.\n\nPara comenzar la actualización, simplemente haga clic en el botón Actualizar dispositivo y siga los pasos proporcionados.",
+          "mainHeader": "Tu dispositivo requiere una actualización de seguridad",
+          "primaryQuitButtonText": "Más tarde",
+          "secondaryQuitButtonText": "Entiendo",
+          "subHeader": "Un recordatorio amistoso de su equipo de IT local"
         }
     ]
     },
