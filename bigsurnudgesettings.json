@@ -38,5 +38,9 @@
           "11.2.2"
         ]
       }
-    ]
+    ],
+    "optionalFeatures": {
+        "asyncronousSoftwareUpdate": true,
+        "enforceMinorUpdates": true
+    }
   }
