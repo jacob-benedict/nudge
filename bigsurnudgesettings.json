@@ -1,10 +1,10 @@
 {
     "userInterface": {
       "simpleMode": false,
-      "iconLightPath" : "/Library/Application Support/JAMF/Resources/fandmSelfServiceLogo.png",
-      "iconDarkPath" : "/Library/Application Support/JAMF/Resources/fandmSelfServiceLogo.png",
-      "screenShotDarkPath" : "/Library/Application Support/JAMF/Resources/bigsurIcon.png",
-      "screenShotLightPath" : "/Library/Application Support/JAMF/Resources/bigsurIcon.png",
+      "iconLightPath" : "/Library/Application Support/JAMF/Resources/bigsurIcon.png",
+      "iconDarkPath" : "/Library/Application Support/JAMF/Resources/bigsurIcon.png",
+      "screenShotDarkPath" : "/Library/Application Support/JAMF/Resources/fandmSelfServiceLogo.png",
+      "screenShotLightPath" : "/Library/Application Support/JAMF/Resources/fandmSelfServiceLogo.png",
       "updateElements": [
         {
         "_language": "en",
