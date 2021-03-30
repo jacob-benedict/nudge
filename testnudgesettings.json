@@ -52,7 +52,7 @@
 						"description": "The required minimum operating system version. Note: When passing versions such as 11.2.0 it will be normalized to 11.2. It is recommended to leave the trailing zero from the version number.",
 						"options": {
 							"inputAttributes": {
-								"placeholder": "11.2.3"
+								"placeholder": "11.2.4"
 							}
 						},
 						"type": "string"
