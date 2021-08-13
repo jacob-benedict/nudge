@@ -30,7 +30,7 @@
               }
           ],    
             "requiredInstallationDate": "2021-08-04T08:00:00Z",
-            "requiredMinimumOSVersion": "11.5.1",
+            "requiredMinimumOSVersion": "11.5.2",
             "targetedOSVersions": [
               "11.5"
         ]
